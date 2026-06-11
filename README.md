@@ -10,7 +10,9 @@ Usage
 2. Choose <i>Language -> User Defined Language -> Define your language...</i>
 3. Choose <i>Import...</i> and select <b>Email_Header_v.1.0_swepeba_UDL_NotepadPlusPlusL.xml</b>
 4. Restart Notepad++ if import was successful.
-5. Choose <i>Language -> </i><b>"Email Header (light mode) v.1.0 - swepeba"</b> is now available at the end of the Language menu.
+5. Open or insert email header content in a new tab.
+6. Choose <i>Language -> </i><b>"Email Header (light mode) v.1.0 - swepeba"</b>.
+7. Now, the syntax highlighting will be applied.
 
 Release notes
 ===================
